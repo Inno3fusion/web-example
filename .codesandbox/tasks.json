@@ -1,4 +1,10 @@
 {
+  "setupTasks": [
+    {
+      "name": "Install Dependencies",
+      "command": "npm i"
+    }
+  ],
   "tasks": {
     "start": {
       "name": "start",
