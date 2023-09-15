@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "start": {
+      "name": "start",
+      "command": "npx http-server .",
+      "runAtStart": true
+    }
+  }
+}
